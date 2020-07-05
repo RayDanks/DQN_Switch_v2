@@ -6,4 +6,4 @@ This is a basic Multi Agent Reinforcement Learning (MARL) system which I have im
  The style of coding is such that others can view the code and read the accompanying explanation as part of a "from-the-ground-up" implementation, rather than an industry use-case.
  
  I have done a more in-depth analysis of this multi-agent DQN system, along with graphs of my actual results, over on my personal website:
- TODO: LINK PERSONAL WEBSITE!
+https://rdanks.wixsite.com/raydanks/post/multi-agent-dqn-implementation
